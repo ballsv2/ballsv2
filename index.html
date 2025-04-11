@@ -413,11 +413,18 @@
             box-shadow: 0 12px 30px rgba(0,0,0,0.1);
         }
 
+        .member-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Ensures the image covers the area nicely */
+            object-position: center; /* Centers the image within the frame */
+        }
+
         .member-img {
             width: 100%;
             height: 280px; /* Increased height */
              background: linear-gradient(135deg, var(--primary), var(--accent));
-            display: flex;
+            display: block;
             align-items: center;
             justify-content: center;
             font-size: 6rem; /* Large icon size */
@@ -847,13 +854,14 @@
                         <p>Chief Roundness Officer</p>
                     </div>
                 </div>
-                <div class="team-member scroll-slide-up" style="transition-delay: 0.4s;">
+                <div class="team-member scroll-slide-up" style="transition-delay: 0.5s;">
                     <div class="member-img">
-                        <i class="fas fa-drafting-compass"></i> <!-- Changed icon -->
+                         <!-- Use the img tag here -->
+                         <img src="1.png" alt="Globula 'Glo' Maxwell Photo">
                     </div>
                     <div class="member-info">
-                        <h3>Balthazar Rollingham</h3>
-                        <p>Head of Multidimensional Engineering</p>
+                        <h3>Globula 'Glo' Maxwell</h3>
+                        <p>Chief Dimensional Weaver</p>
                     </div>
                 </div>
             </div>
