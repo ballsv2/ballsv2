@@ -31,7 +31,7 @@ Want to contwibute?!! Gweat!? Hewe’s how:
 5. mewge ^w^ it a-anyway.
 
 ## 📜 Wicense
-See [LICENSE](LICENSE)
+See [WICENSE](LICENSE)
 
 ## 💬 Contact
 
