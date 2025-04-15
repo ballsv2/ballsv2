@@ -88,6 +88,7 @@ BawwsV2 may cause side effects like:
 - Disbewief in flat suwfaces  
 - Tempowawy enwightenment fowwowed by e-existentiaw confusion
 
+
 ---
 
 &copy; 2025 BawwsV2. Nyo squawes awwowed. aww >w< spheres, all the *boops your nose* t-time.
